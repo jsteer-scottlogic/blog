@@ -11,6 +11,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nisl sapi
   vestibulum id rhoncus mollis, egestas tincidunt eros. Phasellus placerat laoreet
   eros, sed pretium purus laoreet id. Nam sapien nibh, auctor nec lorem vulputate,
   fringilla sollicitudin mi.
+layout: default_author
 ---
 
 ## Title One
