@@ -8,6 +8,7 @@ collections:
   posts:
     title: Posts
     output: true
+    test: test
   uploads:
     title: Uploads
     output: true
