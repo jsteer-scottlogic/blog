@@ -12,16 +12,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  jsteer:
-    title: jsteer
-    output: true
-  defaults:
-  - scope:
-      path: ''
-      type: posts # change scope type here
-    values:
-      summary: "a quick summary of your post"
-      author: "the name of the authers account"
 name: Scott Logic
 description: This feed is brought to you by Scott Logic's team of technical authors
   and bloggers, covering topics including HTML5, iOS, C#, process, UX and practically
