@@ -5,8 +5,6 @@ categories:
 - Tech
 tags:
 - News
-summary: Vivamus laoreet mauris est, eu tincidunt diam aliquet et Vivamus laoreet
-  mauris est, eu tincidunt diam aliquet et
 author: jsteer
 video_url: https://www.youtube.com/embed/CzC_jN4W4Xc
 layout: video_post
